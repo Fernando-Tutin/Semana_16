@@ -1,0 +1,14 @@
+[
+  {
+    "identificador": "V001",
+    "usuario_id": 2,
+    "producto_codigo": "P001",
+    "fecha": "2026-10-01"
+  },
+  {
+    "identificador": "V002",
+    "usuario_id": 4,
+    "producto_codigo": "P002",
+    "fecha": "2026-10-04"
+  }
+]

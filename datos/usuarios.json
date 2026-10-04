@@ -1,0 +1,30 @@
+[
+  {
+    "identificador": 1,
+    "nombre": "Admin Principal",
+    "usuario": "admin",
+    "contrasena": "admin123",
+    "rol": "Administrador"
+  },
+  {
+    "identificador": 2,
+    "nombre": "Carlos Mora",
+    "usuario": "cmora",
+    "contrasena": "emp123",
+    "rol": "Cliente"
+  },
+  {
+    "identificador": 3,
+    "nombre": "Laura Pérez",
+    "usuario": "lperez",
+    "contrasena": "cli123",
+    "rol": "Cliente"
+  },
+  {
+    "identificador": 4,
+    "nombre": "Stefania Gavilanez",
+    "usuario": "Stefania",
+    "contrasena": "tefa16",
+    "rol": "Cliente"
+  }
+]

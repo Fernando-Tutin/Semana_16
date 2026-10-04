@@ -1,0 +1,26 @@
+[
+  {
+    "codigo": "P001",
+    "nombre": "Hamburguesa Clásica",
+    "precio": 5.5,
+    "stock": 20
+  },
+  {
+    "codigo": "P002",
+    "nombre": "Pizza Margarita",
+    "precio": 8.0,
+    "stock": 14
+  },
+  {
+    "codigo": "P003",
+    "nombre": "Refresco",
+    "precio": 1.5,
+    "stock": 50
+  },
+  {
+    "codigo": "P005",
+    "nombre": "Salchipapa",
+    "precio": 1.75,
+    "stock": 50
+  }
+]
